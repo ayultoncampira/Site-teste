@@ -1,0 +1,6 @@
+{
+  "name": "CHILI - Loja de Roupas",
+  "description": "Vitrine digital e catálogo da CHILI - Loja de Roupas em Bagé - RS. Moda masculina, feminina e unissex com atendimento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
